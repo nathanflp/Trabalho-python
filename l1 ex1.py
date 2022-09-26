@@ -6,7 +6,7 @@ while sexo !=1 and sexo !=2:
         
         print("\nDados inválidos,tente novamente!\n" "\n1 - Homem | 2 - Mulher")
         sexo = int(input("\ninforme seu sexo = "))
-
+        
 if(sexo == 1):
 
         pesoIdeal = 72.7 * altura - 58
