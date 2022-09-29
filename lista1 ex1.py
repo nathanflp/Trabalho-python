@@ -11,10 +11,9 @@ if(sexo == 1):
 
         pesoIdeal = 72.7 * altura - 58
         print(f"\nSeu peso ideal é de: {(round(pesoIdeal,1))} Kg(s)")
-        
 
 elif(sexo == 2):
-
+        
         pesoIdeal = 62.1 * altura - 44.7
         print(f"\nSeu peso ideal é de: {(round(pesoIdeal,1))} Kg(s)")
         
