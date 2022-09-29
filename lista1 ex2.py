@@ -3,7 +3,6 @@ excesso = pesopeixes - 50
 
 print(f"\nVocê pescou ",pesopeixes,"kilos de peixe")
 
-
 if(excesso>=0):
 
     multa = excesso * 4
